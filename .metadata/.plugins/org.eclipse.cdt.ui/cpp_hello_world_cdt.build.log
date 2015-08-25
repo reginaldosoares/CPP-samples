@@ -1,0 +1,6 @@
+06:34:11 **** Incremental Build of configuration Debug for project cpp_hello_world_cdt ****
+make all 
+make: Nothing to be done for `all'.
+
+06:34:11 Build Finished (took 135ms)
+

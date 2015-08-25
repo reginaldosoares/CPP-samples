@@ -1,0 +1,15 @@
+06:33:27 **** Build of configuration Debug for project cpp_hello_world_cdt ****
+make all 
+Building file: ../src/cpp_hello_world_cdt.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/cpp_hello_world_cdt.d" -MT"src/cpp_hello_world_cdt.d" -o "src/cpp_hello_world_cdt.o" "../src/cpp_hello_world_cdt.cpp"
+Finished building: ../src/cpp_hello_world_cdt.cpp
+ 
+Building target: cpp_hello_world_cdt
+Invoking: MacOS X C++ Linker
+g++  -o "cpp_hello_world_cdt"  ./src/cpp_hello_world_cdt.o   
+Finished building target: cpp_hello_world_cdt
+ 
+06:34:11 **** Incremental Build of configuration Debug for project cpp_hello_world_cdt ****
+make all 
+make: Nothing to be done for `all'.
